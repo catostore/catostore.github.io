@@ -19,3 +19,10 @@
     border: none;
 
 }
+a {
+    /*
+        Thank u for the help: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links
+    */
+    text-decoration: none;
+    outline: none;
+  }
