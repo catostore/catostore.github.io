@@ -11,18 +11,19 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     font-size: 25px;
-
+    
 }
 
-#indexPageButton{
-    display: inline-block;
+#indexPageButton {
     border: none;
 
 }
-a {
+
+a{
     /*
         Thank u for the help: https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links
     */
     text-decoration: none;
     outline: none;
-  }
+}
+
